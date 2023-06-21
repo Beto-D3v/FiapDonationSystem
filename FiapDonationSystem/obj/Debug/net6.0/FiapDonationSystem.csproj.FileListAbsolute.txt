@@ -1,0 +1,15 @@
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\bin\Debug\net6.0\FiapDonationSystem.exe
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\bin\Debug\net6.0\FiapDonationSystem.deps.json
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\bin\Debug\net6.0\FiapDonationSystem.runtimeconfig.json
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\bin\Debug\net6.0\FiapDonationSystem.dll
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\bin\Debug\net6.0\FiapDonationSystem.pdb
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.csproj.AssemblyReference.cache
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.AssemblyInfo.cs
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.dll
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\refint\FiapDonationSystem.dll
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.pdb
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.genruntimeconfig.cache
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\ref\FiapDonationSystem.dll
