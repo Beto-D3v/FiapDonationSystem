@@ -1,0 +1,15 @@
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\bin\Debug\net6.0\Doacoes.exe
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\bin\Debug\net6.0\Doacoes.deps.json
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\bin\Debug\net6.0\Doacoes.runtimeconfig.json
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\bin\Debug\net6.0\Doacoes.dll
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\bin\Debug\net6.0\Doacoes.pdb
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\obj\Debug\net6.0\Doacoes.csproj.AssemblyReference.cache
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\obj\Debug\net6.0\Doacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\obj\Debug\net6.0\Doacoes.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\obj\Debug\net6.0\Doacoes.AssemblyInfo.cs
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\obj\Debug\net6.0\Doacoes.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\obj\Debug\net6.0\Doacoes.dll
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\obj\Debug\net6.0\refint\Doacoes.dll
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\obj\Debug\net6.0\Doacoes.pdb
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\obj\Debug\net6.0\Doacoes.genruntimeconfig.cache
+C:\Users\windows\Desktop\C#\Mastering C#\FiapDonationSystem\Doacoes\obj\Debug\net6.0\ref\Doacoes.dll
